@@ -1,7 +1,9 @@
+# analyzers and scrapers are non-included files
+#   in order to protect the sites used in this project
 from analyzers import StaticAnalyzers
+from scraper import FundamentalAnalysis, fundamentalScrapers
 from formulas import cumulative_average, angr_weight
 import math
-from scraper import FundamentalAnalysis, fundamentalScrapers
 from functools import reduce
 from operator import concat
 
