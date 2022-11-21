@@ -1,8 +1,6 @@
 # Stock Analysis Project
 *11/13/22 to 11/20/22*
 
-Introduction project to `Python, MongoDB, web scraping, and cloud applications`.
+Fun side-project to get comfortable with `Python, MongoDB, web scraping, and cloud applications`.
 
-The basis of this project was creating a process to analyzing stocks based on their fundamentals and past analysts.
-
-**NOTE**: The files for this project are all here, besides those involved with scraping in order to protect site privacy. More specifics on the data scraping, algorithms, and all other parts of this project are all in  [this paper](https://github.com/johnsfarrell/analysis-proj/blob/master/Written%20Explanation.pdf).
+The basis of this project was analyzing stocks based on their fundamentals and past analyses. Scrapers were excluded from this repo in order to protect the privacy of sites scraped during this project. More specifics on the data scraping, algorithms, and all other parts of this project are [here](https://github.com/johnsfarrell/analysis-proj/blob/master/Written%20Explanation.pdf).
